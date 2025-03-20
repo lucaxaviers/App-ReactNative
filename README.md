@@ -21,7 +21,7 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
 ### Logo do React
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
-### Foto do Desenvolvedor
+### 
 <table>
           <td>
                <a href="https://github.com/lucaxaviers">
