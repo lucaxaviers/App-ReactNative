@@ -1,6 +1,6 @@
 # AppLogin - Aplicativo de Login 🔐
 
-Este projeto é um aplicativo simples de login desenvolvido com **React Native**. O objetivo é fornecer uma interface de login com funcionalidades como *"Esqueci a senha"* e *"Criar Conta"*, com uma navegação fluida entre as telas. 🚀
+Este projeto é um aplicativo simples de login desenvolvido com **React Native**. O objetivo é fornecer uma interface de login com funcionalidades como *"Esqueci a senha"* e *"Criar Conta"*, com uma navegação fluida entre as telas.
 
 ## ⚙️ Funcionalidades
 
