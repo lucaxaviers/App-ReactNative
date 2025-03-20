@@ -23,7 +23,6 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
 
 ### Foto do Desenvolvedor
 <table>
-
           <td>
                <a href="https://github.com/lucaxaviers">
                     <img src="https://avatars.githubusercontent.com/lucaxaviers" width="100px;" alt="Lucas Xavier"/> 
@@ -35,4 +34,5 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
                     </sub> 
                </a> 
           </td> 
+</table>
      
