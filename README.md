@@ -18,7 +18,7 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
 
 ## Desenvolvedor
 
-![Minha Foto](https://avatars.githubusercontent.com/u/12345678?v=4)
+![Minha Foto](https://avatars.githubusercontent.com/u/34796011?v=4)
 
 ## Tecnologias
 
