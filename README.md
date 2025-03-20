@@ -4,14 +4,22 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
 
 ## ⚙️ Funcionalidades
 
-- **Tela de Login**: Permite ao usuário inserir suas credenciais para acessar o aplicativo. 
-- **Esquecer Senha**: Opção para recuperar a senha do usuário. 
-- **Criar Conta**: Permite ao usuário criar uma nova conta no aplicativo. 
-- **Navegação**: Transições simples entre as telas de login, esqueci a senha e registro. 
+- **Tela de Login**: Permite ao usuário inserir suas credenciais para acessar o aplicativo.
+- **Esquecer Senha**: Opção para recuperar a senha do usuário.
+- **Criar Conta**: Permite ao usuário criar uma nova conta no aplicativo.
+- **Navegação**: Transições simples entre as telas de login, esqueci a senha e registro.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React Native**: Framework para desenvolvimento de aplicativos móveis. 
-- **React Navigation**: Biblioteca para navegação entre telas. 
-- **React Native Elements**: Biblioteca de componentes UI prontos para uso. 
-- **Expo**: Ferramenta que ajuda a construir, testar e distribuir aplicativos 
+- **React Native**: Framework para desenvolvimento de aplicativos móveis.
+- **React Navigation**: Biblioteca para navegação entre telas.
+- **React Native Elements**: Biblioteca de componentes UI prontos para uso.
+- **Expo**: Ferramenta que ajuda a construir, testar e distribuir aplicativos.
+
+## Desenvolvedor
+
+![Minha Foto](https://avatars.githubusercontent.com/u/12345678?v=4)
+
+## Tecnologias
+
+![Logo do React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
