@@ -16,11 +16,6 @@ Este projeto é um aplicativo simples de login desenvolvido com **React Native**
 - **React Native Elements**: Biblioteca de componentes UI prontos para uso. 
 - **Expo**: Ferramenta que ajuda a construir, testar e distribuir aplicativos.
 
-## 🖼️ Imagens
-
-### Logo do React
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-
 ### 
 <table>
           <td>
