@@ -10,13 +10,15 @@ export default StyleSheet.create({
     padding: 20,
   },
   title: {
-    color: 'black', 
-    fontSize: 20,
+    color: 'white', 
+    fontSize: 13,
     fontWeight: 'bold',
     marginTop: -150,  // Ajuste o valor aqui para mover o título para cima
     marginBottom: 200,  // Adicionei um pequeno espaçamento abaixo do título
     marginLeft: 20, 
+    fontFamily: 'Courier New'  ,
   },
+  
   inputContainer: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -25,14 +27,14 @@ export default StyleSheet.create({
   input: {
     flex: 1,
     height: 40,
-    borderColor: '#326872',
+    borderColor: '#866e5b',
     borderWidth: 1,
     paddingLeft: 10,
     color: '#FFF',
   },
   roundedInput: {
     borderRadius: 20, 
-    backgroundColor: '#326872', 
+    backgroundColor: '#a8917d', 
   },
   whiteButton: {
     backgroundColor: 'white',
@@ -42,8 +44,8 @@ export default StyleSheet.create({
     alignItems: 'center',
     marginBottom: 10,
     shadowColor: 'black', 
-    shadowOffset: { width: 0, height: 2 }, 
-    shadowOpacity: 0.3, 
+    shadowOffset: { width: 0, height: 4 }, 
+    shadowOpacity: 0.6, 
     shadowRadius: 2, 
     elevation: 3, 
   },
