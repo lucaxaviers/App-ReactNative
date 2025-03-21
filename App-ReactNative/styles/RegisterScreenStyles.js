@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native';
 export default StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#326872', // Cor de fundo para o app
+    backgroundColor: '#866e5b', // Cor de fundo para o app
   },
   contentContainer: {
     flex: 1,
@@ -28,7 +28,7 @@ export default StyleSheet.create({
     fontSize: 16,
   },
   roundedInput: {
-    backgroundColor: '#326872', // Cor de fundo para os campos de input
+    backgroundColor: '', // Cor de fundo para os campos de input
   },
   whiteButton: {
     backgroundColor: 'white',
